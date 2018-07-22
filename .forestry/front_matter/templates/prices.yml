@@ -1,0 +1,16 @@
+---
+label: Prices
+hide_body: true
+is_partial: false
+fields:
+- type: field_group_list
+  label: Oil Prices
+  name: oil_prices
+  fields:
+  - type: text
+    name: type_of_painting
+    label: Type of painting
+    description: Dimensions, etc.
+  - type: text
+    name: price
+    label: Price
