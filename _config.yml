@@ -44,3 +44,6 @@ fields:
   - type: text
     name: phone_number
     label: Phone Number
+- type: field_group
+  name: prices
+  label: Prices
