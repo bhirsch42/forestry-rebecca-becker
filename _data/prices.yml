@@ -1,5 +1,7 @@
 ---
 oil_prices:
+- type_of_painting: Full length
+  price: "$3,600"
 - type_of_painting: '3/4 figure: head to knees (24"x 30")'
   price: "$3,100"
 - type_of_painting: Head & Shoulders (14"x 18")
