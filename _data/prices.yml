@@ -1,12 +1,17 @@
 ---
-oil_prices:
-- type_of_painting: Pets
-  price: starting at $950
-- type_of_painting: Full length
-  price: "$3,600"
-- type_of_painting: '3/4 figure: head to knees (24"x 30")'
-  price: "$3,100"
+prices:
 - type_of_painting: Head & Shoulders (14"x 18")
-  price: "$1,900"
+  oil_price: "$1,900"
+  pastel_price: "$900"
 - type_of_painting: '1/2 figure: head to waist (18"x 24")'
-  price: "$2,400"
+  oil_price: "$2,400"
+  pastel_price: "$1,100"
+- type_of_painting: '3/4 figure: head to knees (24"x 30")'
+  oil_price: "$3,100"
+  pastel_price: "$1,500"
+- type_of_painting: Full length
+  oil_price: "$3,600"
+  pastel_price: "$2,000"
+- type_of_painting: Pets
+  oil_price: starting at $950
+  pastel_price: starting at $700
