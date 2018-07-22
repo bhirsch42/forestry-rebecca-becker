@@ -10,3 +10,5 @@ fields:
 - type: text
   label: Price
   name: price
+pages:
+- _portraits/asdf.md
