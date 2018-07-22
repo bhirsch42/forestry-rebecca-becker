@@ -2,3 +2,5 @@
 oil_prices:
 - type_of_painting: Head & Shoulders (14"x 18")
   price: "$1,900"
+- type_of_painting: '1/2 figure: head to waist (18"x 24")'
+  price: "$2,400"
