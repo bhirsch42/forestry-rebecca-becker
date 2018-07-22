@@ -8,6 +8,5 @@ categories:
 - Pet Portraits
 - Abstracts/Landscapes
 price: ''
-published: false
 
 ---
