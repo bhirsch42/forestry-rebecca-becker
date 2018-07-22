@@ -4,6 +4,8 @@ hide_body: true
 is_partial: false
 fields:
 - type: file
+  label: Image
+  name: image
 - type: tag_list
   name: categories
   label: Categories
