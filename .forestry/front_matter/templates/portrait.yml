@@ -1,0 +1,12 @@
+---
+label: Portrait
+hide_body: true
+is_partial: false
+fields:
+- type: file
+- type: tag_list
+  name: categories
+  label: Categories
+- type: text
+  label: Price
+  name: price
