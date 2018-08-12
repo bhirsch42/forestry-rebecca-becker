@@ -1,3 +1,4 @@
+---
 portraits:
 - image: "/v1516564726/rebecca-becker/c5cljvpcfys9njgmscoi.jpg"
   categories:
@@ -6,3 +7,6 @@ portraits:
   - Pet Portraits
   - Abstracts/Landscapes
   caption: ''
+image: ''
+categories: []
+caption: ''
