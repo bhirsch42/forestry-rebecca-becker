@@ -38,12 +38,28 @@ collections:
 
 fields:
 - type: field_group
-  name: contact_info
-  label: Contact Info
+  name: about_the_artist
+  label: About the Artist
   fields:
   - type: text
-    name: phone_number
-    label: Phone Number
+    name: about_the_artist
+    label: About the Artist
+  - type: text
+    name: portrait_process
+    label: Portrait Process
+- type: field_group
+  name: footer
+  label: Footer
+  fields:
+  - type: text
+    name: email
+    label: Email
+  - type: text
+    name: copyright
+    label: Copyright
 - type: field_group
   name: prices
   label: Prices
+- type: field_group
+  name: testimonials
+  label: Testimonials

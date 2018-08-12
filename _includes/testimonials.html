@@ -1,0 +1,24 @@
+<div class="testimonials">
+  {% for testimonial in site.data.testimonials.testimonials limit:3 %}
+    <div class="testimonial-wrapper">
+      <div class="testimonial">
+        <div class="quote">{{testimonial.quote}}</div>
+        <div class="author">{{testimonial.author}}</div>
+      </div>
+    </div>
+  {% endfor %}
+  <div class="expandable-wrapper">
+    <div class="testimonials expandable">
+      {% for testimonial in site.data.testimonials.testimonials offset:3 %}
+        <div class="testimonial-wrapper">
+          <div class="testimonial">
+            <div class="quote">{{testimonial.quote}}</div>
+            <div class="author">{{testimonial.author}}</div>
+          </div>
+        </div>
+      {% endfor %}
+    </div>
+  </div>
+</div>
+<h3 id="more-testimonials">See more testimonials...</h3>
+<h3 id="fewer-testimonials">See fewer testimonials...</h3>

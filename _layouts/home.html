@@ -1,0 +1,43 @@
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    <title>Portraits by Rebecca Becker</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/assets/main.css">
+</head>
+
+<body>
+    {% include nav.html %}
+    <div class="user-content">
+        {% include content.html %}
+    </div>
+</body>
+
+<footer>
+    <script>
+        let menu = document.querySelectorAll('.side-nav-wrapper');
+        let clickFunc = () => menu.forEach(m => m.classList.toggle('open'));
+        document.querySelectorAll('.nav-button,a').forEach(el => el.onclick = clickFunc);
+
+        let moreTestimonialsButton = document.querySelector('#more-testimonials');
+        let fewerTestimonialsButton = document.querySelector('#fewer-testimonials');
+        let testimonialsExpandable = document.querySelector('.testimonials.expandable')
+        let testimonialsExpandableContainer = document.querySelector('.expandable-wrapper')
+
+        moreTestimonialsButton.onclick = () => {
+            moreTestimonialsButton.style.visibility = 'hidden';
+            moreTestimonialsButton.style.width = '0px';
+            fewerTestimonialsButton.style.visibility = 'visible';
+            fewerTestimonialsButton.style.width = 'auto';
+            let height = testimonialsExpandable.getBoundingClientRect().height;
+            testimonialsExpandableContainer.style.height = `${height}px`;
+        }
+
+        fewerTestimonialsButton.onclick = () => {
+            fewerTestimonialsButton.style.visibility = 'hidden';
+            fewerTestimonialsButton.style.width = '0px';
+            moreTestimonialsButton.style.visibility = 'visible';
+            moreTestimonialsButton.style.width = 'auto';
+            testimonialsExpandableContainer.style.height = '0px';
+        }
+    </script>
+</footer>
