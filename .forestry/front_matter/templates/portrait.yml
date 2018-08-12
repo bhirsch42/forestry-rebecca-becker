@@ -7,6 +7,9 @@ fields:
   name: portraits
   label: Portraits
   fields:
+  - type: text
+    label: Name
+    name: name
   - type: file
     label: Image
     name: image
@@ -16,6 +19,8 @@ fields:
   - type: text
     name: caption
     label: Caption
+    config:
+      required: false
 pages:
 - _portraits/test.md
 data_files:
