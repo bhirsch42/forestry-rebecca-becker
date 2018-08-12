@@ -3,15 +3,19 @@ label: Portrait
 hide_body: true
 is_partial: false
 fields:
-- type: file
-  label: Image
-  name: image
-- type: tag_list
-  name: categories
-  label: Categories
-- type: text
-  label: Caption
-  name: caption
+- type: field_group_list
+  name: portraits
+  label: Portraits
+  fields:
+  - type: file
+    label: Image
+    name: image
+  - type: tag_list
+    name: categories
+    label: Categories
+  - type: text
+    name: caption
+    label: Caption
 pages:
 - _portraits/test.md
 data_files:
