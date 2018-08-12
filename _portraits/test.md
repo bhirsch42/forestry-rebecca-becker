@@ -7,6 +7,8 @@ categories:
 - Pastel Portraits
 - Pet Portraits
 - Abstracts/Landscapes
-price: ''
+caption: ''
 
 ---
+
+

@@ -63,3 +63,16 @@ fields:
 - type: field_group
   name: testimonials
   label: Testimonials
+- type: field_group
+  name: portraits
+  label: Portraits
+  fields:
+  - type: file
+    name: image
+    label: Image
+  - type: tag_list
+    name: categories
+    label: Categories
+  - type: text
+    name: caption
+    label: Caption

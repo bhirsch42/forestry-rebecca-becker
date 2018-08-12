@@ -10,7 +10,7 @@ fields:
   name: categories
   label: Categories
 - type: text
-  label: Price
-  name: price
+  label: Caption
+  name: caption
 pages:
 - _portraits/test.md
