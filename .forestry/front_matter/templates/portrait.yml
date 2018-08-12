@@ -10,6 +10,7 @@ fields:
   - type: text
     label: Name
     name: name
+    description: Just to help keep track, will not appear on website.
   - type: file
     label: Image
     name: image
