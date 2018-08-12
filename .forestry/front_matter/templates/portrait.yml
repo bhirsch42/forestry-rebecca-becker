@@ -22,7 +22,5 @@ fields:
     label: Caption
     config:
       required: false
-pages:
-- _portraits/test.md
 data_files:
 - _data/portraits.yml
