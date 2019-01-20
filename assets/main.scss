@@ -137,6 +137,14 @@ hr {
   width: 50px;
   height: 50px;
 
+  cursor: pointer;
+
+  transition: transform .2s ease;
+
+  &:active {
+    transform: scale(.9);
+  }
+
   @media screen and (min-width: 800px) {
     display: none;
   }
@@ -382,39 +390,35 @@ ul.price {
   }
 }
 
-.gallery-wrapper {
-  padding: 15px;
+.gallery-nav {
+  text-decoration: none;
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
 
-  .gallery-nav {
-    text-decoration: none;
-    list-style: none;
-    display: flex;
-    justify-content: center;
-    flex-wrap: wrap;
+  #selected {
+    border-bottom: 2px solid $lighter;
+  }
 
-    #selected {
-      border-bottom: 2px solid $lighter;
+  li {
+    margin: 15px;
+
+    a {
+      color: $dark;
+      font-size: 1.2em;
     }
 
-    li {
-      margin: 15px;
-
-      a {
-        color: $dark;
-        font-size: 1.2em;
-      }
-
-      a:hover, a:focus {
-        text-decoration: none;
-      }
-
-    }
-
-    li:hover, li:focus {
-      border-bottom: 2px dashed $lighter;
+    a:hover, a:focus {
+      text-decoration: none;
     }
 
   }
+
+  li:hover, li:focus {
+    border-bottom: 2px dashed $lighter;
+  }
+
 }
 
 .gallery {
@@ -433,7 +437,9 @@ ul.price {
 
 
 .grid {
-  margin: 0 auto;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
 }
 
 .grid-item {
