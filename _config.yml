@@ -33,9 +33,6 @@ exclude:
   - Gemfile
   - Gemfile.lock
 
-collections:
-  - portraits
-
 fields:
 - type: field_group
   name: about_the_artist
