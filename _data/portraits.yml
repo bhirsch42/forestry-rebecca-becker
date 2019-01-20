@@ -1,167 +1,237 @@
 ---
 portraits:
-- image: "/v1467145985/rebecca-becker/xijp4rnhdmay0nyqfu9i.jpg"
-  categories:
-  - Pastel Portraits
-  caption: ''
-  name: ''
-- image: "/v1467144978/rebecca-becker/mluxrlfppgjffrlz3tjl.jpg"
+- image: "/v1/rebecca-becker/kwqzydnspwe4jnr0hdgd"
   categories:
   - Oil Portraits
   caption: ''
+  name: Kate
+- image: "/v1/rebecca-becker/qlska9clrifrvtdavkhb"
+  categories:
+  - Oil Portraits
+  caption: ''
+  name: William
+- image: "/v1/rebecca-becker/mluxrlfppgjffrlz3tjl"
+  categories:
+  - Oil Portraits
+  caption:
   name: ''
-- image: "/v1467145947/rebecca-becker/qwlboikscz9lbz9fcxpu.jpg"
+- image: "/v1/rebecca-becker/jjn5zrwnzb65exnl5sjk"
+  categories:
+  - Oil Portraits
+  caption:
+  name: ''
+- image: "/v1/rebecca-becker/lhe1se8klddnn3athnto"
+  categories:
+  - Oil Portraits
+  caption:
+  name: ''
+- image: "/v1/rebecca-becker/uevt4aomjv95ol2ki3bz"
+  categories:
+  - Oil Portraits
+  caption:
+  name: ''
+- image: "/v1/rebecca-becker/plqnkbewvalty1oyrwn6"
+  categories:
+  - Oil Portraits
+  caption:
+  name: ''
+- image: "/v1/rebecca-becker/nzdytr5qwstnwncfi5xs"
+  categories:
+  - Oil Portraits
+  caption:
+  name: ''
+- image: "/v1/rebecca-becker/qntvqtj0phe5wz3zd4ln"
+  categories:
+  - Oil Portraits
+  caption:
+  name: ''
+- image: "/v1/rebecca-becker/ry8sfjej9hth31ajkid0"
+  categories:
+  - Oil Portraits
+  caption: ''
+  name: Ella
+- image: "/v1/rebecca-becker/mt7wvr21j1jvcgipizvx"
+  categories:
+  - Oil Portraits
+  caption:
+  name: ''
+- image: "/v1/rebecca-becker/r0tikrxsvkjrx6rx4ctw"
+  categories:
+  - Oil Portraits
+  caption:
+  name: ''
+- image: "/v1/rebecca-becker/hwrmspfqoajhikowddos"
+  categories:
+  - Oil Portraits
+  caption:
+  name: ''
+- image: "/v1/rebecca-becker/ckpe4xiyet0qn4qrzwnb"
+  categories:
+  - Oil Portraits
+  caption: ''
+  name: Adrienne
+- image: "/v1/rebecca-becker/vlnsok6vbn4549xi0h4p"
+  categories:
+  - Oil Portraits
+  caption: ''
+  name: Isabel
+- image: "/v1/rebecca-becker/uylbhqg8yd0s7yqxvpp1"
   categories:
   - Pastel Portraits
-  caption: ''
+  caption:
   name: ''
-- image: "/v1467149076/rebecca-becker/szkhtbijx3uzpxpowuqq.jpg"
+- image: "/v1/rebecca-becker/qwlboikscz9lbz9fcxpu"
   categories:
-  - Abstracts/Landscapes
-  caption: ''
+  - Pastel Portraits
+  caption:
   name: ''
-- image: "/v1467148732/rebecca-becker/gcqaemlaz3gtywsijfs3.jpg"
+- image: "/v1/rebecca-becker/tlyj05cpkjkjurwbyehr"
+  categories:
+  - Pastel Portraits
+  caption:
+  name: ''
+- image: "/v1/rebecca-becker/ffungqeyk1chkmh7q0o5"
+  categories:
+  - Pastel Portraits
+  caption:
+  name: ''
+- image: "/v1/rebecca-becker/xijp4rnhdmay0nyqfu9i"
+  categories:
+  - Pastel Portraits
+  caption:
+  name: ''
+- image: "/v1/rebecca-becker/piygmwoa81zpereheoaw"
+  categories:
+  - Pastel Portraits
+  caption:
+  name: ''
+- image: "/v1/rebecca-becker/n91tonnwd21ap4nnhmjm"
+  categories:
+  - Pastel Portraits
+  caption:
+  name: ''
+- image: "/v1/rebecca-becker/zzhce0io5hicuyazcuox"
+  categories:
+  - Pastel Portraits
+  caption:
+  name: ''
+- image: "/v1/rebecca-becker/yuge1a3oqviyhzgkxaml"
   categories:
   - Pet Portraits
   caption: ''
-  name: ''
-- image: "/v1467145174/rebecca-becker/hwrmspfqoajhikowddos.jpg"
-  categories:
-  - Oil Portraits
-  caption: ''
-  name: ''
-- image: "/v1467145124/rebecca-becker/ckpe4xiyet0qn4qrzwnb.jpg"
-  categories:
-  - Oil Portraits
-  caption: ''
-  name: ''
-- image: "/v1467149087/rebecca-becker/wn75e8imc20pipozkhco.jpg"
-  categories:
-  - Abstracts/Landscapes
-  caption: ''
-  name: ''
-- image: "/v1467149011/rebecca-becker/s5anmicyu4661rb8xpyg.jpg"
-  categories:
-  - Abstracts/Landscapes
-  caption: Available ~ 30" x 40" ~ $1500
-  name: ''
-- image: "/v1467145960/rebecca-becker/tlyj05cpkjkjurwbyehr.jpg"
-  categories:
-  - Pastel Portraits
-  caption: ''
-  name: ''
-- image: "/v1467149063/rebecca-becker/gyeywchuhlxe8poe2tfl.jpg"
-  categories:
-  - Abstracts/Landscapes
-  caption: ''
-  name: ''
-- image: "/v1467145008/rebecca-becker/lhe1se8klddnn3athnto.jpg"
-  categories:
-  - Oil Portraits
-  caption: ''
-  name: ''
-- image: "/v1467145152/rebecca-becker/mt7wvr21j1jvcgipizvx.jpg"
-  categories:
-  - Oil Portraits
-  caption: ''
-  name: ''
-- image: "/v1467145918/rebecca-becker/uylbhqg8yd0s7yqxvpp1.jpg"
-  categories:
-  - Pastel Portraits
-  caption: ''
-  name: ''
-- image: "/v1467145999/rebecca-becker/piygmwoa81zpereheoaw.jpg"
-  categories:
-  - Pastel Portraits
-  caption: ''
-  name: ''
-- image: "/v1467144957/rebecca-becker/vlnsok6vbn4549xi0h4p.jpg"
-  categories:
-  - Oil Portraits
-  caption: ''
-  name: ''
-- image: "/v1467146023/rebecca-becker/zzhce0io5hicuyazcuox.jpg"
-  categories:
-  - Pastel Portraits
-  caption: ''
-  name: ''
-- image: "/v1467149052/rebecca-becker/hdjj6rf8v1dvh24akqx3.jpg"
-  categories:
-  - Abstracts/Landscapes
-  caption: ''
-  name: ''
-- image: "/v1467145163/rebecca-becker/r0tikrxsvkjrx6rx4ctw.jpg"
-  categories:
-  - Oil Portraits
-  caption: ''
-  name: ''
-- image: "/v1467145022/rebecca-becker/uevt4aomjv95ol2ki3bz.jpg"
-  categories:
-  - Oil Portraits
-  caption: ''
-  name: ''
-- image: "/v1467148714/rebecca-becker/cnxoj2ov8w5oatkoyy1o.jpg"
+  name: Bailey
+- image: "/v1/rebecca-becker/tfp12clvtokcqljnifk2"
   categories:
   - Pet Portraits
-  caption: ''
+  caption:
   name: ''
-- image: "/v1467145073/rebecca-becker/nzdytr5qwstnwncfi5xs.jpg"
-  categories:
-  - Oil Portraits
-  caption: ''
-  name: ''
-- image: "/v1467145973/rebecca-becker/ffungqeyk1chkmh7q0o5.jpg"
-  categories:
-  - Pastel Portraits
-  caption: ''
-  name: ''
-- image: "/v1467148740/rebecca-becker/n3ygdlzislbj2gv6qba3.jpg"
+- image: "/v1/rebecca-becker/cnxoj2ov8w5oatkoyy1o"
   categories:
   - Pet Portraits
-  caption: ''
+  caption:
   name: ''
-- image: "/v1467145094/rebecca-becker/qntvqtj0phe5wz3zd4ln.jpg"
+- image: "/v1/rebecca-becker/utugyvsy72zkqf3wyr4l"
   categories:
-  - Oil Portraits
-  caption: ''
+  - Pet Portraits
+  caption:
   name: ''
-- image: "/v1467149097/rebecca-becker/fudj99dfqzfpgjygdenj.jpg"
+- image: "/v1/rebecca-becker/gcqaemlaz3gtywsijfs3"
+  categories:
+  - Pet Portraits
+  caption:
+  name: ''
+- image: "/v1/rebecca-becker/n3ygdlzislbj2gv6qba3"
+  categories:
+  - Pet Portraits
+  caption:
+  name: ''
+- image: "/v1/rebecca-becker/aeklelpmirhyisiwb3z8"
+  categories:
+  - Abstracts/Landscapes
+  caption: Available ~ 40" x 40"~ $1600
+  name: ''
+- image: "/v1/rebecca-becker/lasgxnatit2qgprykmzy"
+  categories:
+  - Abstracts/Landscapes
+  caption: Available ~ 36" x 36", $1300
+  name: ''
+- image: "/v1/rebecca-becker/jt3phs6calf7qth3af7w"
+  categories:
+  - Abstracts/Landscapes
+  caption: Available ~ 24" x 30"~ $1200
+  name: ''
+- image: "/v1/rebecca-becker/u2rlgwfho6pikfdixwfg"
+  categories:
+  - Abstracts/Landscapes
+  caption: Available ~ 30" x 40"~ $1300
+  name: ''
+- image: "/v1/rebecca-becker/foyz1afqeynxcblrvvte"
+  categories:
+  - Abstracts/Landscapes
+  caption: Available ~ 30" x 40"~ $1200
+  name: ''
+- image: "/v1/rebecca-becker/jczkyq7bpyexcshpq9u9"
+  categories:
+  - Abstracts/Landscapes
+  caption: Available~ 40" x 40"~ $1600
+  name: ''
+- image: "/v1/rebecca-becker/c5cljvpcfys9njgmscoi"
+  categories:
+  - Abstracts/Landscapes
+  caption: Available~ 24" x 30"~ $1200
+  name: ''
+- image: "/v1/rebecca-becker/ersqupekvluwhtxkyyhv"
+  categories:
+  - Abstracts/Landscapes
+  caption: Available ~ 30" x 36" ~ $1200
+  name: ''
+- image: "/v1/rebecca-becker/q92hvvigxwzkcg65kj0j"
   categories:
   - Abstracts/Landscapes
   caption: ''
   name: ''
-- image: "/v1467146012/rebecca-becker/n91tonnwd21ap4nnhmjm.jpg"
-  categories:
-  - Pastel Portraits
-  caption: ''
-  name: ''
-- image: "/v1467144940/rebecca-becker/ry8sfjej9hth31ajkid0.jpg"
-  categories:
-  - Oil Portraits
-  caption: ''
-  name: ''
-- image: "/v1467148702/rebecca-becker/tfp12clvtokcqljnifk2.jpg"
-  categories:
-  - Pet Portraits
-  caption: ''
-  name: ''
-- image: "/v1467149023/rebecca-becker/ersqupekvluwhtxkyyhv.jpg"
+- image: "/v1/rebecca-becker/vr8oe827sskam02zu1yl"
   categories:
   - Abstracts/Landscapes
-  caption: Available ~ 30" x 36" ~ $1300
-  name: ''
-- image: "/v1467145045/rebecca-becker/plqnkbewvalty1oyrwn6.jpg"
-  categories:
-  - Oil Portraits
   caption: ''
   name: ''
-- image: "/v1467144992/rebecca-becker/jjn5zrwnzb65exnl5sjk.jpg"
+- image: "/v1/rebecca-becker/bejvuts5afv7rwc3lcka"
   categories:
-  - Oil Portraits
+  - Abstracts/Landscapes
   caption: ''
   name: ''
-- image: "/v1467148724/rebecca-becker/utugyvsy72zkqf3wyr4l.jpg"
+- image: "/v1/rebecca-becker/ceayfajobr4cl7lxtrwz"
   categories:
-  - Pet Portraits
+  - Abstracts/Landscapes
+  caption: ''
+  name: ''
+- image: "/v1/rebecca-becker/hdjj6rf8v1dvh24akqx3"
+  categories:
+  - Abstracts/Landscapes
+  caption: ''
+  name: ''
+- image: "/v1/rebecca-becker/gyeywchuhlxe8poe2tfl"
+  categories:
+  - Abstracts/Landscapes
+  caption: ''
+  name: ''
+- image: "/v1/rebecca-becker/wn75e8imc20pipozkhco"
+  categories:
+  - Abstracts/Landscapes
+  caption: ''
+  name: ''
+- image: "/v1/rebecca-becker/fudj99dfqzfpgjygdenj"
+  categories:
+  - Abstracts/Landscapes
+  caption: ''
+  name: ''
+- image: "/v1/rebecca-becker/s5anmicyu4661rb8xpyg"
+  categories:
+  - Abstracts/Landscapes
+  caption: ''
+  name: ''
+- image: "/v1/rebecca-becker/szkhtbijx3uzpxpowuqq"
+  categories:
+  - Abstracts/Landscapes
   caption: ''
   name: ''
