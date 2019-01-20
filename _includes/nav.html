@@ -27,3 +27,8 @@
         </li>
     </ul>
 </div>
+<script>
+    let menu = document.querySelectorAll('.side-nav-wrapper');
+    let clickFunc = () => menu.forEach(m => m.classList.toggle('open'));
+    document.querySelectorAll('.nav-button,a').forEach(el => el.onclick = clickFunc);
+</script>
