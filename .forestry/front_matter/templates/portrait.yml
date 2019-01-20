@@ -22,5 +22,5 @@ fields:
     label: Caption
     config:
       required: false
-data_files:
+pages:
 - _data/portraits.yml
