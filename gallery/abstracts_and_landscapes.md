@@ -4,10 +4,10 @@ layout: home
 <h1 class="text-center">Gallery</h1>
 <ul class="gallery-nav">
   <li id=""><a href="/gallery">All</a></li>
-  <li id=""><a href="oil_portraits">Oil Portraits</a></li>
-  <li id=""><a href="pastel_portraits">Pastel Portraits</a></li>
-  <li id=""><a href="pet_portraits">Pet Portraits</a></li>
-  <li id="selected"><a href="abstracts_and_landscapes">Abstracts/Landscapes</a></li>
+  <li id=""><a href="oil_portraits.html">Oil Portraits</a></li>
+  <li id=""><a href="pastel_portraits.html">Pastel Portraits</a></li>
+  <li id=""><a href="pet_portraits.html">Pet Portraits</a></li>
+  <li id="selected"><a href="abstracts_and_landscapes.html">Abstracts/Landscapes</a></li>
 </ul>
 <div class="grid">
     {% assign portraits = site.data.portraits.portraits | where_exp: "portrait", "portrait.categories contains 'Abstracts/Landscapes'" %}
