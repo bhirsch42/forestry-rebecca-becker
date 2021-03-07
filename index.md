@@ -107,11 +107,11 @@ Contact
 </div>
 </div>
 
-<div class="row">
-<div class="col col-md-12">
-<h2 class="text-center">Rebecca Paris, Atlanta Artist</h2>
-</div>
-</div>
+<div class="row"> <div class="col col-md-12"> <h2 class="text-center">
+
+Rebecca Paris (formerly Rebecca Becker), Artist
+
+</h2> </div> </div>
 
 <div class="row">
 <div class="col col-md-12">
