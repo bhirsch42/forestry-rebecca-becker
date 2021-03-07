@@ -2,7 +2,9 @@
 layout: home
 
 ---
-<div class="text-center" id="home"> <div class="header"> <div class="cursive"> Rebecca Paris </div> </div> </div>
+<div class="text-center" id="home"> <div class="header"> <div class="cursive"> Rebecca Paris
+
+</div> </div> </div>
 
 {% include gallery_launcher.html %}
 
