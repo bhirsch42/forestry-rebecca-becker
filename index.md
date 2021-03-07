@@ -107,7 +107,7 @@ Contact
 
 <div class="row">
 <div class="col col-md-12">
-<h2 class="text-center">Rebecca Becker, Atlanta Artist</h2>
+<h2 class="text-center">Rebecca Paris, Atlanta Artist</h2>
 </div>
 </div>
 
