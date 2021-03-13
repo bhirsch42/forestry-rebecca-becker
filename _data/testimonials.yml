@@ -1,26 +1,45 @@
 ---
 testimonials:
-- quote: "Wow! This is fantastic! How could I improve! Love it!"
-  author: "Rebecca Fretty, Greenwich, CT"
-- quote: "I want to thank you again for painting such a gorgeous painting of our child. The colors are so rich and he just looks so sweet - the perfect combo of everything! You are so talented!! I look forward to recommending you tons in the future. Even though we're moving to New Jersey, we'll fly back to Atlanta for you to paint our other child because you are the best!"
-  author: "Amy Wise"
-- quote: "We LOVE it! Perrin loves it too! John is amazed by it! Thank you thank you! I can't stop staring at it! "
-  author: "Jennifer Raulet"
-- quote: "LOVE the pastel of Nicholas!!! Thank you so much!"
-  author: "Molly Osborne"
-- quote: "Chip loves the portraits! He was very impressed. Thank you so much!"
-  author: "Bethany Busbey"
-- quote: "We love it! Thanks so much for all your hard work!!"
-  author: "Chrissy Scott"
-- quote: "I came home today and received a thank you note from my sister-in-law regarding the portraits. Here's what she said: 'We just wanted to say thanks so much for the perfect gift. The boys' portraits are beautiful and we can't wait to get them framed! We showed them to every person who walked in the house on Christmas Day. Of course, they all were mad because their gifts paled in comparison.'"
-  author: "Jennifer Hayes"
-- quote: "Thank you so much!! We are extremely pleased!!"
-  author: "Molly Lynch"
-- quote: "We really do love the picture and keep just staring at it!"
-  author: "Stacey Beardsley"
-- quote: "Oh, I LOVE IT! Thank you for sending! I have been meaning to send YOU a picture of the framed masterpiece. We went to Caroline Budd’s and the end product is just stunning! We are deliriously happy with it! Will remember to take a picture this week. Thanks again!"
-  author: "Talley Hultgren"
-- quote: "We really love the portraits and cannot thank you enough!!! We've been admiring them and so have the kids. If we have any changes, we'll let you know, but so far we really think they are magnificent."
-  author: "Dell and Mark Norman"
-- quote: "Hi Rebecca! I just wanted to let you know that Brad and I are sitting in front of the portrait and absolutely love it! It is exactly the way we see him and it is just perfect! You are so talented and I can't wait to get Caroline's done. Thanks again- I am so happy with the way it turned out. I LOVE IT, I LOVE IT, I love it. I woke up like a kid on Christmas and ran into the dining room to look at it. Thank you!!!!"
-  author: "Reed Roberts"
+- quote: I want to thank you again for painting such a gorgeous painting of our child.
+    The colors are so rich and he just looks so sweet - the perfect combo of everything!
+    You are so talented!! I look forward to recommending you tons in the future. Even
+    though we're moving to New Jersey, we'll fly back to Atlanta for you to paint
+    our other child because you are the best!
+  author: Amy Wise
+- quote: Wow! This is fantastic! How could I improve! Love it!
+  author: Rebecca Fretty, Greenwich, CT
+- quote: 'We LOVE it! Perrin loves it too! John is amazed by it! Thank you thank you!
+    I can''t stop staring at it! '
+  author: Jennifer Raulet
+- quote: LOVE the pastel of Nicholas!!! Thank you so much!
+  author: Molly Osborne
+- quote: Chip loves the portraits! He was very impressed. Thank you so much!
+  author: Bethany Busbey
+- quote: We love it! Thanks so much for all your hard work!!
+  author: Chrissy Scott
+- quote: 'I came home today and received a thank you note from my sister-in-law regarding
+    the portraits. Here''s what she said: ''We just wanted to say thanks so much for
+    the perfect gift. The boys'' portraits are beautiful and we can''t wait to get
+    them framed! We showed them to every person who walked in the house on Christmas
+    Day. Of course, they all were mad because their gifts paled in comparison.'''
+  author: Jennifer Hayes
+- quote: Thank you so much!! We are extremely pleased!!
+  author: Molly Lynch
+- quote: We really do love the picture and keep just staring at it!
+  author: Stacey Beardsley
+- quote: Oh, I LOVE IT! Thank you for sending! I have been meaning to send YOU a picture
+    of the framed masterpiece. We went to Caroline Budd’s and the end product is just
+    stunning! We are deliriously happy with it! Will remember to take a picture this
+    week. Thanks again!
+  author: Talley Hultgren
+- quote: We really love the portraits and cannot thank you enough!!! We've been admiring
+    them and so have the kids. If we have any changes, we'll let you know, but so
+    far we really think they are magnificent.
+  author: Dell and Mark Norman
+- quote: Hi Rebecca! I just wanted to let you know that Brad and I are sitting in
+    front of the portrait and absolutely love it! It is exactly the way we see him
+    and it is just perfect! You are so talented and I can't wait to get Caroline's
+    done. Thanks again- I am so happy with the way it turned out. I LOVE IT, I LOVE
+    IT, I love it. I woke up like a kid on Christmas and ran into the dining room
+    to look at it. Thank you!!!!
+  author: Reed Roberts
